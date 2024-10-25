@@ -62,6 +62,7 @@ ICMP netmask response
 ICMP redirection enabled
 ICMP Timestamp Request Remote Date Disclosure
 ICMP timestamp response
+Inconclusive host with excessive port connection failures
 Inconsistent Hostname and IP Address
 Internet Key Exchange (IKE) Aggressive Mode with Pre-Shared Key
 Invalid CIFS Logins Permitted
