@@ -19,6 +19,7 @@ CGI Generic Tests Load Estimation (all tests)
 CGI Generic Tests Timeout
 Check Point FireWall-1 ICA Service Detection
 Check Point SecuRemote Hostname Information Disclosure
+CIFS NULL Session Permitted
 CISCO ASA SSL VPN Detection
 Common Platform Enumeration (CPE)
 Curl Installed (Linux / Unix)
@@ -41,7 +42,6 @@ Ethernet MAC Addresses
 Exported volume is publicly mountable
 External URLs
 Files or directories with no real owner or group
-FTP credentials transmitted unencrypted
 FTP Server Detection
 Host Fully Qualified Domain Name (FQDN) Resolution
 HSTS Missing From HTTPS Server
@@ -62,9 +62,9 @@ ICMP netmask response
 ICMP redirection enabled
 ICMP Timestamp Request Remote Date Disclosure
 ICMP timestamp response
-Inconclusive host with excessive port connection failures
 Inconsistent Hostname and IP Address
 Internet Key Exchange (IKE) Aggressive Mode with Pre-Shared Key
+Invalid CIFS Logins Permitted
 Invalid TLS/SSL certificate
 IP Assignment Method Detection
 IPSEC Internet Key Exchange (IKE) Version 1 Detection
@@ -73,7 +73,6 @@ JAR File Detection for Linux/UNIX
 Java Detection and Identification (Linux / Unix)
 JQuery 1.2 < 3.5.0 Multiple XSS
 JQuery Detection
-jQuery
 kpatch : Installed Patches
 L2TP Network Server Detection
 libcurl Installed (Linux / Unix)
@@ -84,7 +83,6 @@ Linux User List Enumeration
 MD5-based Signature in TLS/SSL Server X.509 Certificate
 Memory Information (via DMI)
 Microsoft Exchange Server Detection (Uncredentialed)
-Microsoft Exchange Server Unsupported Version Detection (Uncredentialed)
 Microsoft IIS default installation/welcome page installed
 Microsoft Outlook Web Access (OWA) Version Detection
 Microsoft SharePoint Server Detection
@@ -121,7 +119,6 @@ Oracle HTTP Server Installed
 Oracle Installed Software Enumeration (Linux / Unix)
 Oracle Java JRE Premier Support and Extended Support Version Detection (Unix)
 Oracle Java Runtime Environment (JRE) Detection (Unix)
-Oracle Java SE 1.7.x < 1.7.0_211 / 1.8.x < 1.8.0_201 / 1.11.x < 1.11.0_2 Multiple Vulnerabilities (January 2019 CPU) (Unix)
 Oracle OPatch Installed
 Oracle WebLogic Detection (Combined)
 Oracle WebLogic HTTP Detection
@@ -231,6 +228,7 @@ TLS/SSL Server Supports The Use of Static Key Ciphers
 TLS/SSL Weak Message Authentication Code Cipher Suites
 Traceroute Information
 UDP IP ID Zero
+Unencrypted Telnet Service Available
 Unix / Linux - Local Users Information : Passwords Never Expire
 Unix / Linux Running Processes Information
 Unix Software Discovery Commands Available
