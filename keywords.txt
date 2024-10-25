@@ -1,0 +1,268 @@
+Additional DNS Hostnames
+Anonymous root login is allowed
+Apache default installation/welcome page installed
+Apache HTTP Server Version
+Apache Log4j Installed (Linux / Unix)
+Apache mod_status /server-status Information Disclosure
+Apache Struts Detection for Linux/UNIX
+Apache Tomcat default installation/welcome page installed
+Apache Tomcat Detection
+Atlassian Confluence Wiki Detection
+Atlassian JIRA Detection
+Backported Security Patch Detection (SSH)
+Backported Security Patch Detection (WWW)
+BGP Service Detection
+BIOS Info (SSH)
+CGI Generic Injectable Parameter
+CGI Generic Tests HTTP Errors
+CGI Generic Tests Load Estimation (all tests)
+CGI Generic Tests Timeout
+Check Point FireWall-1 ICA Service Detection
+Check Point SecuRemote Hostname Information Disclosure
+CISCO ASA SSL VPN Detection
+Common Platform Enumeration (CPE)
+Curl Installed (Linux / Unix)
+Database Open Access
+Default or Guessable SNMP community names: public
+Deprecated SSLv2 Connection Attempts
+Device Hostname
+Device Type
+Diffie-Hellman group smaller than 1024 bits
+Diffie-Hellman group smaller than 2048 bits
+DNS server allows cache snooping
+Embedded Web Server Detection
+Enumerate IPv4 Interfaces via SSH
+Enumerate IPv6 Interfaces via SSH
+Enumerate MAC Addresses via SSH
+Enumerate the Network Interaface configuration via SSH
+Enumerate the Network Routing configuration via SSH
+Enumerate the PATH Variables
+Ethernet MAC Addresses
+Exported volume is publicly mountable
+External URLs
+Files or directories with no real owner or group
+FTP credentials transmitted unencrypted
+FTP Server Detection
+Host Fully Qualified Domain Name (FQDN) Resolution
+HSTS Missing From HTTPS Server
+HSTS Missing From HTTPS Server (RFC 6797)
+HTTP Cookie 'secure' Property Transport Mismatch
+HTTP Methods Allowed (per directory)
+HTTP OPTIONS Method Enabled
+HTTP Server Type and Version
+HTTP TRACE / TRACK Methods Allowed
+HTTP TRACE Method Enabled
+HyperText Transfer Protocol (HTTP) Information
+HyperText Transfer Protocol (HTTP) Redirect Information
+IBM Endpoint Manager Web Server Detection
+IBM Jazz Team Server Detection
+IBM WebSphere Application Server Liberty Detection
+ICMP Netmask Request Information Disclosure
+ICMP netmask response
+ICMP redirection enabled
+ICMP Timestamp Request Remote Date Disclosure
+ICMP timestamp response
+Inconclusive host with excessive port connection failures
+Inconsistent Hostname and IP Address
+Internet Key Exchange (IKE) Aggressive Mode with Pre-Shared Key
+Invalid TLS/SSL certificate
+IP Assignment Method Detection
+IPSEC Internet Key Exchange (IKE) Version 1 Detection
+IPSEC Internet Key Exchange (IKE) Version 2 Detection
+JAR File Detection for Linux/UNIX
+Java Detection and Identification (Linux / Unix)
+JQuery 1.2 < 3.5.0 Multiple XSS
+JQuery Detection
+jQuery
+kpatch : Installed Patches
+L2TP Network Server Detection
+libcurl Installed (Linux / Unix)
+Libgcrypt Installed (Linux/UNIX)
+Linux Mounted Devices
+Linux TCP Option Typecasting Denial Of Service
+Linux User List Enumeration
+MD5-based Signature in TLS/SSL Server X.509 Certificate
+Memory Information (via DMI)
+Microsoft Exchange Server Detection (Uncredentialed)
+Microsoft Exchange Server Unsupported Version Detection (Uncredentialed)
+Microsoft IIS default installation/welcome page installed
+Microsoft Outlook Web Access (OWA) Version Detection
+Microsoft SharePoint Server Detection
+MikroTik RouterOS Detection
+MikroTik RouterOS Winbox Detection
+Missing or Permissive Content-Security-Policy frame-ancestors HTTP Response Header
+Missing or Permissive X-Frame-Options HTTP Response Header
+Nessus Scan Information
+Nessus SYN scanner
+NetBIOS NBSTAT Traffic Amplification
+Netstat Connection Information
+Netstat Portscanner (SSH)
+Network daemons not managed by the package system
+Network Time Protocol (NTP) Mode 6 Scanner
+Network Time Protocol (NTP) Server Detection
+nginx HTTP Server Detection
+No password for Grub
+No password on CIFS guest account
+Node.js Installed (Linux / UNIX)
+Node.js Modules Installed (Linux)
+Non-compliant Strict Transport Security (STS)
+NTP clock variables information disclosure
+NTP: DoS in monlist feature of ntpd (CVE-2013-5211)
+NTP: Traffic Amplification in listpeers feature of ntpd
+NTP: Traffic Amplification in peers feature of ntpd
+NTP: Traffic Amplification in reslist feature of ntpd
+Open HTTP Proxy
+Open Port Re-check
+OpenSSH Detection
+OpenSSL Detection
+OpenSSL Installed (Linux)
+OpenSSL Version Detection
+Oracle HTTP Server Installed
+Oracle Installed Software Enumeration (Linux / Unix)
+Oracle Java JRE Premier Support and Extended Support Version Detection (Unix)
+Oracle Java Runtime Environment (JRE) Detection (Unix)
+Oracle Java SE 1.7.x < 1.7.0_211 / 1.8.x < 1.8.0_201 / 1.11.x < 1.11.0_2 Multiple Vulnerabilities (January 2019 CPU) (Unix)
+Oracle OPatch Installed
+Oracle WebLogic Detection (Combined)
+Oracle WebLogic HTTP Detection
+Oracle WebLogic Server Detection
+Oracle WebLogic Server Node Manager Detection
+Oracle WebLogic T3 Protocol Detection
+OS Identification
+OS Identification and Installed Software Enumeration over SSH v2 (Using New SSH Library)
+OS Identification Failed
+OS Security Patch Assessment Available
+OS Security Patch Assessment Not Available
+Partition Mounting Weakness
+Patch Report
+PHP Version Detection
+PPTP Detection
+Processor Information (via DMI)
+Protected Web Page Detection
+Python Remote HTTP Detection
+Remote listeners enumeration (Linux / AIX)
+Reverse NAT/Intercepting Proxy Detection
+RHEL 8 : open-vm-tools (RHSA-2023:3950)
+Self-signed TLS/SSL certificate
+Service Detection
+Service Detection (GET request)
+Service Detection (HELP Request)
+Session Initiation Protocol Detection
+SHA-1-based Signature in TLS/SSL Server X.509 Certificate
+SMB signing disabled
+SMB signing not required
+SMBv2 signing not required
+Software Enumeration (SSH)
+SQLite Local Detection (Linux)
+SSH Algorithms and Languages Supported
+SSH Birthday attacks on 64-bit block ciphers (SWEET32)
+SSH CBC vulnerability
+SSH Password Authentication Accepted
+SSH Protocol Versions Supported
+SSH SCP Protocol Detection
+SSH Server CBC Mode Ciphers Enabled
+SSH Server Supports 3DES Cipher Suite
+SSH Server Supports diffie-hellman-group1-sha1
+SSH Server Supports RC4 Cipher Algorithms
+SSH server supports SSH protocol v1 clients
+SSH Server Supports Weak Key Exchange Algorithms
+SSH Server Type and Version Information
+SSH SHA-1 HMAC Algorithms Enable
+SSH SHA-1 HMAC Algorithms Enabled
+SSH Weak Algorithms Supported
+SSH Weak Key Exchange Algorithms Enabled
+SSH Weak MAC Algorithms Enabled
+SSH Weak Message Authentication Code Algorithms
+SSL / TLS Versions Supported
+SSL Certificate Cannot Be Trusted
+SSL Certificate Chain Contains Certificates Expiring Soon
+SSL Certificate Chain Not Sorted
+SSL Certificate 'commonName' Mismatch
+SSL Certificate Expiry
+SSL Certificate Expiry - Future Expiry
+SSL Certificate Information
+SSL Certificate Signed Using Weak Hashing Algorithm
+SSL Certificate Signed Using Weak Hashing Algorithm (Known CA)
+SSL Cipher Block Chaining Cipher Suites Supported
+SSL Cipher Suites Supported
+SSL Medium Strength Cipher Suites Supported (SWEET32)
+SSL Perfect Forward Secrecy Cipher Suites Supported
+SSL Root Certification Authority Certificate Information
+SSL Self-Signed Certificate
+SSL Service Requests Client Certificate
+SSL Session Resume Supported
+SSL/TLS Diffie-Hellman Modulus <= 1024 Bits (Logjam)
+SSL/TLS Recommended Cipher Suites
+SSL/TLS Service Requires Client Certificate
+Strict Transport Security (STS) Detection
+System Information Enumeration (via DMI)
+Target Credential Status by Authentication Protocol - No Credentials Provided
+Target Credential Status by Authentication Protocol - Valid Credentials Provided
+TCP timestamp response
+TCP/IP Timestamps Supported
+Test-cgi Script Information Disclosure Vulnerability
+TFTP Daemon Detection
+Time of Last System Startup
+TLS ALPN Supported Protocol Enumeration
+TLS Next Protocols Supported
+TLS NPN Supported Protocol Enumeration
+TLS RC4
+TLS RC4 Stream Cipher Key Invariance (Bar Mitzvah)
+TLS Server Supports DHE_EXPORT Cipher Algorithms (CVE-2015-4000)
+TLS Server Supports TLS version 1.0
+TLS Server Supports TLS version 1.1
+TLS Version 1.0 Protocol Detection
+TLS Version 1.1 Protocol Deprecated
+TLS Version 1.1 Protocol Detection
+TLS Version 1.2 Protocol Detection
+TLS Version 1.3 Protocol Detection
+TLS/SSL
+TLS/SSL Birthday attacks on 64-bit block ciphers (SWEET32)
+TLS/SSL Server Does Not Support Any Strong Cipher Algorithms
+TLS/SSL Server is enabling the BEAST attack
+TLS/SSL Server is enabling the POODLE attack
+TLS/SSL Server Is Using Commonly Used Prime Numbers
+TLS/SSL Server Supports 3DES Cipher Suite
+TLS/SSL Server Supports DES and IDEA Cipher Suites
+TLS/SSL Server Supports Export Cipher Algorithms
+TLS/SSL Server Supports RC4 Cipher Algorithms (CVE-2013-2566)
+TLS/SSL Server Supports SSLv3
+TLS/SSL Server Supports The Use of Static Key Ciphers
+TLS/SSL Weak Message Authentication Code Cipher Suites
+Traceroute Information
+UDP IP ID Zero
+Unix / Linux - Local Users Information : Passwords Never Expire
+Unix / Linux Running Processes Information
+Unix Software Discovery Commands Available
+Unknown Service Detection: Banner Retrieval
+Untrusted TLS/SSL server X.509 certificate
+UPnP TCP Helper Detection
+User home directory mode unsafe
+VNC remote control service installed
+Weak Cryptographic Key
+Web Application Cookies Are Expired
+Web Application Cookies Not Marked HttpOnly
+Web Application Cookies Not Marked Secure
+Web Application Firewall Detection
+Web Application Potentially Sensitive CGI Parameter Detection
+Web Application Sitemap
+Web mirroring
+Web Server / Application favicon.ico Vendor Fingerprinting
+Web Server Allows Password Auto-Completion
+Web Server Crafted Request Vendor/Version Information Disclosure
+Web Server Directory Enumeration
+Web Server Harvested Email Addresses
+Web Server HTTP Header Internal IP Disclosure
+Web Server No 404 Error Code Check
+Web Server robots.txt Information Disclosure
+Web Server SSL Port HTTP Traffic Detection
+Web Server Unconfigured - Default Install Page Present
+Web Server Uses Basic Authentication over HTTPS
+Web Server Uses Non Random Session IDs
+WebDAV Detection
+WebM Project WebP Image Library Installed (Linux)
+Wireless Access Point Detection
+World writable files exist
+X.509 Certificate Subject CN Does Not Match the Entity Name
+X.509 Server Certificate Is Invalid/Expired
+X.509 Server Certificate Will Expire Within 30 Days
