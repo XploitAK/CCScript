@@ -72,8 +72,7 @@ IPSEC Internet Key Exchange (IKE) Version 1 Detection
 IPSEC Internet Key Exchange (IKE) Version 2 Detection
 JAR File Detection for Linux/UNIX
 Java Detection and Identification (Linux / Unix)
-JQuery 1.2 < 3.5.0 Multiple XSS
-JQuery Detection
+jQuery
 kpatch : Installed Patches
 L2TP Network Server Detection
 libcurl Installed (Linux / Unix)
