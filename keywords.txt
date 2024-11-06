@@ -236,7 +236,6 @@ Unknown Service Detection: Banner Retrieval
 Untrusted TLS/SSL server X.509 certificate
 UPnP TCP Helper Detection
 User home directory mode unsafe
-VNC remote control service installed
 Weak Cryptographic Key
 Web Application Cookies Are Expired
 Web Application Cookies Not Marked HttpOnly
