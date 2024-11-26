@@ -166,6 +166,7 @@ SSH Server Supports Weak Key Exchange Algorithms
 SSH Server Type and Version Information
 SSH SHA-1 HMAC Algorithms Enable
 SSH SHA-1 HMAC Algorithms Enabled
+SSH Terrapin Prefix Truncation Weakness
 SSH Weak Algorithms Supported
 SSH Weak Key Exchange Algorithms Enabled
 SSH Weak MAC Algorithms Enabled
