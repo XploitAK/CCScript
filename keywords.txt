@@ -208,11 +208,10 @@ TLS RC4 Stream Cipher Key Invariance (Bar Mitzvah)
 TLS Server Supports DHE_EXPORT Cipher Algorithms (CVE-2015-4000)
 TLS Server Supports TLS version 1.0
 TLS Server Supports TLS version 1.1
-TLS Version 1.0 Protocol Detection
-TLS Version 1.1 Protocol Deprecated
-TLS Version 1.1 Protocol Detection
-TLS Version 1.2 Protocol Detection
-TLS Version 1.3 Protocol Detection
+TLS Version 1.0
+TLS Version 1.1
+TLS Version 1.2
+TLS Version 1.3
 TLS/SSL
 TLS/SSL Birthday attacks on 64-bit block ciphers (SWEET32)
 TLS/SSL Server Does Not Support Any Strong Cipher Algorithms
