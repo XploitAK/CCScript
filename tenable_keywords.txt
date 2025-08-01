@@ -1,1 +1,5 @@
 SSL
+SSL Self-Signed Certificate
+SSL Anonymous Cipher Suites Supported
+SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
+SSH Weak Key Exchange Algorithms Enabled
