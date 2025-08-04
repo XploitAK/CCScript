@@ -3,3 +3,6 @@ SSL Self-Signed Certificate
 SSL Anonymous Cipher Suites Supported
 SSH Terrapin Prefix Truncation Weakness (CVE-2023-48795)
 SSH Weak Key Exchange Algorithms Enabled
+SSH Server CBC Mode Ciphers Enabled
+Debian dla-3316 : libecpg-compat3 - security update
+Debian dla-3627 : redis - security update
